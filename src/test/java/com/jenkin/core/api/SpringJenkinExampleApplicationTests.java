@@ -17,6 +17,9 @@ class SpringJenkinExampleApplicationTests {
 	public void contextLoads() {
 		log.info("Test Case executed Successfully.....");
 		log.info("Test Case executed Successfully Second time.....");
+		log.info("Test Case executed Successfully Third time.....");
+		log.info("Test Case executed Successfully Forth time.....");
+		
 		Assertions.assertEquals(true, true);
 	}
 
