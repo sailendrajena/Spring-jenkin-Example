@@ -21,6 +21,7 @@ class SpringJenkinExampleApplicationTests {
 		log.info("Test Case executed Successfully Forth time.....");
 		log.info("Test Case executed Successfully Fifth time.....");
 		log.info("Test Case executed Successfully Sixth time.....");
+		log.info("Test Case executed Successfully Seventh time.....");
 		
 		Assertions.assertEquals(true, true);
 	}
