@@ -9,6 +9,7 @@ import jakarta.annotation.PostConstruct;
 
 @SpringBootApplication
 public class SpringJenkinExampleApplication {
+	
 	public static Logger log = LoggerFactory.getLogger(SpringJenkinExampleApplication.class);
 	
 	@PostConstruct
